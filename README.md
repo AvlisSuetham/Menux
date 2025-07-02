@@ -1,17 +1,57 @@
 🧾 Menux – Sistema de Cardápios Digitais com Gestão Comercial
-Menux é um sistema web completo para digitalização de cardápios e gerenciamento de estabelecimentos comerciais no ramo alimentício. Projetado para restaurantes, cafés, lanchonetes e similares, o Menux oferece uma plataforma intuitiva e poderosa para facilitar a operação diária e impulsionar as vendas.
+Desenvolvido por Sophira
 
-🔧 Funcionalidades:
-📋 Gerenciamento de Produtos e Categorias
+Menux é um sistema web completo desenvolvido para digitalizar cardápios e facilitar o gerenciamento de negócios no setor alimentício. Criado com foco em simplicidade, desempenho e escalabilidade, o Menux atende desde pequenos comércios até estabelecimentos de médio porte que desejam modernizar seu atendimento e sua gestão.
 
-👥 Cadastro e controle de Funcionários
+Este projeto integra o ecossistema de soluções inteligentes da Sophira, voltado para inovação no comércio e na experiência do cliente.
 
-💰 Relatórios de Vendas e Desempenho
+⚙️ Funcionalidades Gerais
+📋 Gestão de produtos e categorias
 
-🍽️ Cardápio Digital para Clientes (interface amigável e responsiva)
+👥 Cadastro e controle de funcionários
 
-🔐 Autenticação e Controle de Acesso
+💰 Relatórios de vendas e desempenho
 
-🛒 Área Comercial para atendimento ao cliente
+🍽️ Interface responsiva de cardápio para clientes
 
-Desenvolvido com foco em usabilidade, organização e escalabilidade, o Menux é ideal para negócios que desejam modernizar seu atendimento sem abrir mão do controle e da eficiência.
+🔐 Sistema de autenticação com controle de acesso
+
+🛒 Área comercial voltada para o cliente
+
+🆓 Menux Free
+A versão gratuita, pensada para pequenos empreendedores que estão iniciando sua jornada digital.
+
+Recursos incluídos:
+
+Cadastro de produtos e categorias
+
+Visualização do cardápio via link público
+
+Área administrativa simples e intuitiva
+
+Sistema básico de login
+
+Uso local (sem banco de dados conectado)
+
+Interface responsiva para uso em dispositivos móveis
+
+💼 Menux Pro
+A versão premium do Menux, com recursos avançados, ideal para estabelecimentos que desejam mais controle, personalização e suporte.
+
+Recursos adicionais:
+
+Integração com banco de dados (persistência total de dados)
+
+Painel de relatórios detalhados (vendas, produtos mais vendidos, desempenho por funcionário)
+
+Cadastro de múltiplos funcionários com níveis de acesso
+
+Atualizações automáticas do sistema
+
+Acesso ao repositório privado da Sophira
+
+Suporte técnico e melhorias contínuas
+
+Personalização visual e identidade de marca (logo, cores, domínio)
+
+Integração com pedidos online (futuramente)
